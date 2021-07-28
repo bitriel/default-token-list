@@ -64,7 +64,7 @@ const NAME = {
             address: token.address,
             name: token.name,
             symbol: token.symbol,
-            logoURI: token?.logoURI || "",
+            logoURI: token.logoURI || "",
           });
           console.log("Add to list to send to chester");
           continue;

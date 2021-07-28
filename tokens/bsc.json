@@ -1,5 +1,13 @@
 [
   {
+    "name": "SELENDRA",
+    "symbol": "SEL",
+    "address": "0x30bAb6B88dB781129c6a4e9B7926738e3314Cf1C",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://www.bscscan.com/token/images/selendra_32.png"
+  },
+  {
     "name": "Bakery Token",
     "symbol": "BAKE",
     "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
