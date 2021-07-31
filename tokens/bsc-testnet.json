@@ -32,11 +32,11 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/DAI-D75/logo.png"
   },
   {
-    "name": "USDC",
+    "name": "USDC Token",
     "symbol": "USDC",
-    "address": "0x16227D60f7a0e586C66B005219dfc887D13C9531",
+    "address": "0x64544969ed7EBf5f083679233325356EbE738930",
     "chainId": 97,
-    "decimals": 6,
+    "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDC-CD2/logo.png"
   },
   {
