@@ -17,35 +17,43 @@
   },
   {
     "name": "USD Coin",
-    "address": "0x4dbcdf9b62e891a7cec5a2568c3f4faf9e8abe2b",
+    "address": "0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b",
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 4,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4dbcdf9b62e891a7cec5a2568c3f4faf9e8abe2b/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b/logo.png"
   },
   {
-    "name": "Tether USD",
-    "address": "0x4dbcdf9b62e891a7cec5a2568c3f4faf9e8abe2b",
+    "name": "USD Token",
+    "address": "0xD9BA894E0097f8cC2BBc9D24D308b98e36dc6D02",
     "symbol": "USDT",
     "decimals": 18,
     "chainId": 4,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4dbcdf9b62e891a7cec5a2568c3f4faf9e8abe2b/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD9BA894E0097f8cC2BBc9D24D308b98e36dc6D02/logo.png"
   },
   {
     "name": "Basic Attention Token",
-    "address": "0xbf7a7169562078c96f0ec1a8afd6ae50f12e5a99",
+    "address": "0xbF7A7169562078c96f0eC1A8aFD6aE50f12e5A99",
     "symbol": "BAT",
     "decimals": 18,
     "chainId": 4,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbf7a7169562078c96f0ec1a8afd6ae50f12e5a99/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbF7A7169562078c96f0eC1A8aFD6aE50f12e5A99/logo.png"
+  },
+  {
+    "name": "ZRX",
+    "address": "0xddea378A6dDC8AfeC82C36E9b0078826bf9e68B6",
+    "symbol": "ZRX",
+    "decimals": 18,
+    "chainId": 4,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xddea378A6dDC8AfeC82C36E9b0078826bf9e68B6/logo.png"
   },
   {
     "name": "ChainLink Token",
-    "address": "0x01be23585060835e02b77ef475b0cc51aa1e0709",
+    "address": "0x01BE23585060835E02B77ef475b0Cc51aA1e0709",
     "symbol": "LINK",
     "decimals": 18,
     "chainId": 4,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x01be23585060835e02b77ef475b0cc51aa1e0709/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x01BE23585060835E02B77ef475b0Cc51aA1e0709/logo.png"
   },
   {
     "name": "Maker",
