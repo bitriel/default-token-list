@@ -16,6 +16,38 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735/logo.png"
   },
   {
+    "name": "USD Coin",
+    "address": "0x4dbcdf9b62e891a7cec5a2568c3f4faf9e8abe2b",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 4,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4dbcdf9b62e891a7cec5a2568c3f4faf9e8abe2b/logo.png"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0x4dbcdf9b62e891a7cec5a2568c3f4faf9e8abe2b",
+    "symbol": "USDT",
+    "decimals": 18,
+    "chainId": 4,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4dbcdf9b62e891a7cec5a2568c3f4faf9e8abe2b/logo.png"
+  },
+  {
+    "name": "Basic Attention Token",
+    "address": "0xbf7a7169562078c96f0ec1a8afd6ae50f12e5a99",
+    "symbol": "BAT",
+    "decimals": 18,
+    "chainId": 4,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbf7a7169562078c96f0ec1a8afd6ae50f12e5a99/logo.png"
+  },
+  {
+    "name": "ChainLink Token",
+    "address": "0x01be23585060835e02b77ef475b0cc51aa1e0709",
+    "symbol": "LINK",
+    "decimals": 18,
+    "chainId": 4,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x01be23585060835e02b77ef475b0cc51aa1e0709/logo.png"
+  },
+  {
     "name": "Maker",
     "address": "0xF9bA5210F91D0474bd1e1DcDAeC4C58E359AaD85",
     "symbol": "MKR",
