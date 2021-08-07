@@ -1,8 +1,23 @@
 {
-  "name": "dev-bitrielswap-default-token-list",
-  "version": "1.0.3",
+  "name": "@bitriel/default-token-list",
+  "version": "1.0.0",
   "description": "BitrielSwap default token list",
   "main": "build/bitrielswap-default.tokenlist.json",
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitriel/default-token-list.git"
+  },
+  "keywords": [
+    "bitrielswap",
+    "default",
+    "token",
+    "list"
+  ],
+  "bugs": {
+    "url": "https://github.com/bitriel/default-token-list/issues"
+  },
+  "homepage": "https://github.com/bitriel/default-token-list#readme",
   "scripts": {
     "test": "mocha",
     "build": "rimraf build && mkdir -p build && node internal/write.js > build/bitrielswap-default.tokenlist.json",
@@ -12,22 +27,6 @@
   "files": [
     "build/bitrielswap-default.tokenlist.json"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hangleang/default-token-list.git"
-  },
-  "keywords": [
-    "bitrielswap",
-    "default",
-    "token",
-    "list"
-  ],
-  "author": "Matthew Lilley <hello@matthewlilley.com>",
-  "license": "GPL-3.0-or-later",
-  "bugs": {
-    "url": "https://github.com/hangleang/default-token-list/issues"
-  },
-  "homepage": "https://github.com/hangleang/default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@ethersproject/solidity": "^5.3.0",

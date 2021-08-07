@@ -12,56 +12,49 @@
     "address": "0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735",
     "symbol": "DAI",
     "decimals": 18,
-    "chainId": 4,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735/logo.png"
+    "chainId": 4
   },
   {
     "name": "USD Coin",
     "address": "0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b",
     "symbol": "USDC",
     "decimals": 6,
-    "chainId": 4,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b/logo.png"
+    "chainId": 4
   },
   {
     "name": "USD Token",
     "address": "0xD9BA894E0097f8cC2BBc9D24D308b98e36dc6D02",
     "symbol": "USDT",
     "decimals": 18,
-    "chainId": 4,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD9BA894E0097f8cC2BBc9D24D308b98e36dc6D02/logo.png"
+    "chainId": 4
   },
   {
     "name": "Basic Attention Token",
     "address": "0xbF7A7169562078c96f0eC1A8aFD6aE50f12e5A99",
     "symbol": "BAT",
     "decimals": 18,
-    "chainId": 4,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbF7A7169562078c96f0eC1A8aFD6aE50f12e5A99/logo.png"
+    "chainId": 4
   },
   {
     "name": "ZRX",
     "address": "0xddea378A6dDC8AfeC82C36E9b0078826bf9e68B6",
     "symbol": "ZRX",
     "decimals": 18,
-    "chainId": 4,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xddea378A6dDC8AfeC82C36E9b0078826bf9e68B6/logo.png"
+    "chainId": 4
   },
   {
     "name": "ChainLink Token",
     "address": "0x01BE23585060835E02B77ef475b0Cc51aA1e0709",
     "symbol": "LINK",
     "decimals": 18,
-    "chainId": 4,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x01BE23585060835E02B77ef475b0Cc51aA1e0709/logo.png"
+    "chainId": 4
   },
   {
     "name": "Maker",
     "address": "0xF9bA5210F91D0474bd1e1DcDAeC4C58E359AaD85",
     "symbol": "MKR",
     "decimals": 18,
-    "chainId": 4,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF9bA5210F91D0474bd1e1DcDAeC4C58E359AaD85/logo.png"
+    "chainId": 4
   },
   {
     "name": "Uniswap",
