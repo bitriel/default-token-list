@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Wrapped Selendra",
+    "symbol": "WSEL",
+    "address": "0xDED2DEDf0cF48033cb50a4EF3e7587bAbc227151",
+    "chainId": 2000,
+    "decimals": 18,
+    "logoURI": "https://avatars.githubusercontent.com/u/49308834?s=200&v=4"
+  },
+  {
+    "name": "Kumandra",
+    "symbol": "KUM",
+    "address": "0xd60ccFdf97985c2920d8E734c6352Aec85A9a4f3",
+    "chainId": 2000,
+    "decimals": 18,
+    "logoURI": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fih1.redbubble.net%2Fimage.2244728554.6510%2Fst%2Csmall%2C507x507-pad%2C600x600%2Cf8f8f8.jpg&f=1&nofb=1"
+  }
+]

@@ -23,6 +23,7 @@ const okex = require("../tokens/okex.json");
 const okexTestnet = require("../tokens/okex-testnet.json");
 // const arbitrum = require("../tokens/arbitrum.json");
 const celo = require("../tokens/celo.json");
+const selTestnet = require("../tokens/sel-testnet.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -62,6 +63,7 @@ module.exports = function buildList() {
       ...okexTestnet,
       // ...arbitrum,
       ...celo,
+      ...selTestnet
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {

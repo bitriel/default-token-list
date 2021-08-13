@@ -4,7 +4,7 @@ const { Octokit } = require("@octokit/rest");
 
 const octokit = new Octokit();
 
-const { ChainId } = require("@sushiswap/sdk");
+const { ChainId } = require("@bitriel/bitrielswap-sdk");
 
 const fs = require("fs");
 
@@ -12,15 +12,16 @@ const { resolve } = require("path");
 
 const NAME = {
   [ChainId.MAINNET]: "mainnet",
-  [ChainId.FANTOM]: "fantom",
-  [ChainId.MATIC]: "matic",
-  [ChainId.XDAI]: "xdai",
+  // [ChainId.FANTOM]: "fantom",
+  // [ChainId.MATIC]: "matic",
+  // [ChainId.XDAI]: "xdai",
   [ChainId.BSC]: "bsc",
-  [ChainId.AVALANCHE]: "avalanche",
-  [ChainId.HECO]: "heco",
-  [ChainId.HARMONY]: "harmony",
-  [ChainId.OKEX]: "okex",
-  [ChainId.CELO]: "celo",
+  // [ChainId.AVALANCHE]: "avalanche",
+  // [ChainId.HECO]: "heco",
+  // [ChainId.HARMONY]: "harmony",
+  // [ChainId.OKEX]: "okex",
+  // [ChainId.CELO]: "celo",
+  [ChainId.SEL_TESTNET]: "sel-testnet"
 };
 
 (async () => {
