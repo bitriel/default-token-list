@@ -2,7 +2,7 @@
   {
     "name": "Wrapped Selendra",
     "symbol": "WSEL",
-    "address": "0xDED2DEDf0cF48033cb50a4EF3e7587bAbc227151",
+    "address": "0xfD8cB7eD8A6aA6f714E8C19D5c8c0636bE82820A",
     "chainId": 2000,
     "decimals": 18,
     "logoURI": "https://avatars.githubusercontent.com/u/49308834?s=200&v=4"
@@ -13,6 +13,6 @@
     "address": "0xd60ccFdf97985c2920d8E734c6352Aec85A9a4f3",
     "chainId": 2000,
     "decimals": 18,
-    "logoURI": "https://ih1.redbubble.net/image.2184114727.7619/st,small,507x507-pad,600x600,f8f8f8.jpg"
+    "logoURI": "https://avatars.githubusercontent.com/u/41331389?s=200&v=4"
   }
 ]
