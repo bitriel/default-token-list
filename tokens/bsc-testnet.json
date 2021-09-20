@@ -5,7 +5,15 @@
     "address": "0x46bF747DeAC87b5db70096d9e88debd72D4C7f3C",
     "chainId": 97,
     "decimals": 18,
-    "logoURI": "https://avatars.githubusercontent.com/u/47025775?s=60&v=4"
+    "logoURI": "https://avatars.githubusercontent.com/u/49308834?s=200&v=4"
+  },
+  {
+    "name": "Kumandra",
+    "symbol": "KUM",
+    "address": "0xDED2DEDf0cF48033cb50a4EF3e7587bAbc227151",
+    "chainId": 97,
+    "decimals": 18,
+    "logoURI": "https://avatars.githubusercontent.com/u/41331389?s=200&v=4"
   },
   {
     "name": "WBNB Token",
