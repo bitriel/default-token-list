@@ -2,16 +2,16 @@
   {
     "name": "Wrapped Selendra",
     "symbol": "WSEL",
-    "address": "0xfD8cB7eD8A6aA6f714E8C19D5c8c0636bE82820A",
-    "chainId": 2000,
+    "address": "0xC62cb7D3fBb79c5F6159e3d6B820F54346ebA811",
+    "chainId": 222,
     "decimals": 18,
     "logoURI": "https://avatars.githubusercontent.com/u/49308834?s=200&v=4"
   },
   {
-    "name": "Kumandra",
-    "symbol": "KUM",
-    "address": "0xd60ccFdf97985c2920d8E734c6352Aec85A9a4f3",
-    "chainId": 2000,
+    "name": "RISE Stabletoken",
+    "symbol": "RISE",
+    "address": "0x6d6bB9c593c782406f50a0b022a42D5Ab3a3ffC6",
+    "chainId": 222,
     "decimals": 18,
     "logoURI": "https://avatars.githubusercontent.com/u/41331389?s=200&v=4"
   }
