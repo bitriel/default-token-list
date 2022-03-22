@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Wrapped Selendra",
+    "symbol": "WSEL",
+    "address": "0x6ccEE11c255b458575DbaD2c77c281C6Bd7eFe3f",
+    "chainId": 222,
+    "decimals": 18,
+    "logoURI": "https://avatars.githubusercontent.com/u/49308834?s=200&v=4"
+  },
+  {
+    "name": "Token1",
+    "symbol": "T1",
+    "address": "0xa0b82eb3eE32db3F8CB0A852b24528F15296664A",
+    "chainId": 222,
+    "decimals": 18
+  },
+  {
+    "name": "Token2",
+    "symbol": "T2",
+    "address": "0x54848EFd1A148B3aBC7dc5424341ca66846fc6Fe",
+    "chainId": 222,
+    "decimals": 18
+  },
+  {
+    "name": "Token3",
+    "symbol": "T3",
+    "address": "0xd69da0368da61e8edAEF0b4b67d2903Bf1aB143F",
+    "chainId": 222,
+    "decimals": 18
+  }
+]

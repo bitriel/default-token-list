@@ -164,32 +164,26 @@
     "@babel/helper-validator-identifier" "^7.14.9"
     to-fast-properties "^2.0.0"
 
-"@bitriel/bitrielswap-core@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/@bitriel/bitrielswap-core/-/bitrielswap-core-1.0.0.tgz"
-  integrity sha512-XeMWgHc+EVBO6I6jqfjGAZkKCH4CJZ3zDwb7iQKeJp8b9HLDxfVXhBASBpxWfcAUMAvasgA9ttbQGzmIcnw6rQ==
+"@bitriel/bitrielswap-core@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@bitriel/bitrielswap-core/-/bitrielswap-core-1.0.1.tgz#143c7fd974b8f81de046869315fa5550802b0650"
+  integrity sha512-XQKpn74f+xmMtTfGQUs0O+iDvfQV4cm0IO86oF2m+6Z/9+lRGksOqX88yb79AE2VqVny29dkpiFn3dzjT26Wcg==
   dependencies:
     "@truffle/hdwallet-provider" "^1.4.1"
     dotenv "^10.0.0"
 
-"@bitriel/bitrielswap-periphery@^1.0.0":
-  version "1.0.2"
-  resolved "https://registry.npmjs.org/@bitriel/bitrielswap-periphery/-/bitrielswap-periphery-1.0.2.tgz"
-  integrity sha512-Wbkc6G4kWYu9vW8tLiqKjpJUhrihI1MSk8Y6P8gN3y5a2C1Wn5L9z0fiQQMtra0Cb0KsCCSxG1Az2RE8femWXg==
-  dependencies:
-    "@bitriel/bitrielswap-core" "^1.0.0"
-    "@openzeppelin/contracts" "^3.4.1-solc-0.7-2"
-    "@truffle/hdwallet-provider" "^1.4.1"
-    "@uniswap/v2-core" "^1.0.1"
-    dotenv "^10.0.0"
+"@bitriel/bitrielswap-periphery@^1.1.11":
+  version "1.1.11"
+  resolved "https://registry.yarnpkg.com/@bitriel/bitrielswap-periphery/-/bitrielswap-periphery-1.1.11.tgz#340f51d1ea780a2a0b55ef16e186a231624c9d5e"
+  integrity sha512-O9aup/2faHfSt25h2MK4pVBX6Z9EuOVYUXMwh3L7AvpiGDEO5c8dqaYQiuKI31h2OoZj/uERFeGC12w6RACUcw==
 
-"@bitriel/bitrielswap-sdk@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.npmjs.org/@bitriel/bitrielswap-sdk/-/bitrielswap-sdk-1.0.2.tgz"
-  integrity sha512-m+/7vzi+vg1R6oEN1X/J4FqCOnShlqN2cEYPmg31sC3cOAoSOM1CuxvCBzdrWrZGGLuDYIurl1iNDqYvT6wV7w==
+"@bitriel/bitrielswap-sdk@^1.4.0":
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/@bitriel/bitrielswap-sdk/-/bitrielswap-sdk-1.4.0.tgz#21aafc4a61f96c29e4af36b3c90c27b83fcfba56"
+  integrity sha512-2Gun83VEWpJF7n+tbnGm7mnle4AOVkaToEq3RHnALj9jUX8bfJqyQXiAmrx6q0eMSvEQllKhMoRLnjT+Pe8pUw==
   dependencies:
-    "@bitriel/bitrielswap-core" "^1.0.0"
-    "@bitriel/bitrielswap-periphery" "^1.0.0"
+    "@bitriel/bitrielswap-core" "^1.0.1"
+    "@bitriel/bitrielswap-periphery" "^1.1.11"
     "@ethersproject/abi" "^5.0.12"
     "@ethersproject/solidity" "^5.0.9"
     "@uniswap/sdk-core" "^3.0.0-alpha.3"
@@ -493,11 +487,6 @@
   dependencies:
     "@octokit/openapi-types" "^7.3.5"
 
-"@openzeppelin/contracts@^3.4.1-solc-0.7-2":
-  version "3.4.1"
-  resolved "https://registry.npmjs.org/@openzeppelin/contracts/-/contracts-3.4.1.tgz"
-  integrity sha512-cUriqMauq1ylzP2TxePNdPqkwI7Le3Annh4K9rrpvKfSBB/bdW+Iu1ihBaTIABTAAJ85LmKL5SSPPL9ry8d1gQ==
-
 "@truffle/hdwallet-provider@^1.4.1":
   version "1.4.3"
   resolved "https://registry.npmjs.org/@truffle/hdwallet-provider/-/hdwallet-provider-1.4.3.tgz"
@@ -643,11 +632,6 @@
   version "1.0.0-beta.19"
   resolved "https://registry.npmjs.org/@uniswap/token-lists/-/token-lists-1.0.0-beta.19.tgz"
   integrity sha512-19V3KM7DAe40blWW1ApiaSYwqbq0JTKMO3yChGBrXzQBl+BoQZRTNZ4waCyoZ5QM45Q0Mxd6bCn6jXcH9G1kjg==
-
-"@uniswap/v2-core@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.npmjs.org/@uniswap/v2-core/-/v2-core-1.0.1.tgz"
-  integrity sha512-MtybtkUPSyysqLY2U210NBDeCHX+ltHt3oADGdjqoThZaFRDKwM6k1Nb3F0A3hk5hwuQvytFWhrWHOEq6nVJ8Q==
 
 abstract-leveldown@~2.6.0:
   version "2.6.3"
