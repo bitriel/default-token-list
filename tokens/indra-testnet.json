@@ -8,6 +8,14 @@
     "logoURI": "https://avatars.githubusercontent.com/u/49308834?s=200&v=4"
   },
   {
+    "name": "Bitriel",
+    "symbol": "BTR",
+    "address": "0xe03ABC0663c88Ec28AEAD62E6f1dd329c26b3518",
+    "chainId": 222,
+    "decimals": 18,
+    "logoURI": "https://avatars.githubusercontent.com/u/39110528?s=200&v=4"
+  },
+  {
     "name": "Token1",
     "symbol": "T1",
     "address": "0xa0b82eb3eE32db3F8CB0A852b24528F15296664A",
