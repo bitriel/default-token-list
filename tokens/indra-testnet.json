@@ -16,6 +16,14 @@
     "logoURI": "https://avatars.githubusercontent.com/u/39110528?s=200&v=4"
   },
   {
+    "name": "USD Tether",
+    "symbol": "USDT",
+    "address": "0x85EF3DF3D7e227703d330187a928B31A4BfbbFBD",
+    "chainId": 222,
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.svg?v=022"
+  },
+  {
     "name": "Token1",
     "symbol": "T1",
     "address": "0xa0b82eb3eE32db3F8CB0A852b24528F15296664A",
